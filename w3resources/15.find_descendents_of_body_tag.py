@@ -1,4 +1,4 @@
-# Q15. Write a Python program to retrieve children of the html tag from a given web page.
+# 15. Write a Python program to retrieve all descendants of the body tag from a given web page.
 
 from bs4 import BeautifulSoup
 import requests
@@ -8,6 +8,6 @@ soup = BeautifulSoup(page, 'lxml')
 
 root = soup.html
 
-root_child = [e.name for e in root.children if e.name is not None]
+root_child = [e.name for e in root.descendants if e.name is not None]
 
 print(root_child)
