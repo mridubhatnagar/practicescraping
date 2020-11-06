@@ -14,16 +14,12 @@ def fetch_links(xkcd_url):
     link = ''
     image_link = '' 
 
-    while True:
+    while not xkcd_url.endswith("#"):
         response = requests.get(xkcd_url)
 
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "lxml")
 
-            # find the previous page link
-            previous_page_link = soup.find('a', rel='prev')
-            if previous_page_link:
-                link = "https://xkcd.com" + previous_page_link["href"]
             # finds the image link
             links = soup.select("#comic > img")
             if links:
@@ -31,12 +27,15 @@ def fetch_links(xkcd_url):
 
             else:
                 image_link = "could not find image"
+            
+            xkcd_links[xkcd_url] = image_link
 
-            xkcd_links[link] = image_link
+            # find the previous page link
+            previous_page_link = soup.find('a', rel='prev')
+            if previous_page_link:
+                link = "https://xkcd.com" + previous_page_link["href"]
+
             xkcd_url = link
-
-            if xkcd_url.endswith("/1/"):
-                break
         else:
             response.raise_for_status()
 
