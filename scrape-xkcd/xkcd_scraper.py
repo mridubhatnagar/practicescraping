@@ -1,9 +1,15 @@
+import csv
 from bs4 import BeautifulSoup
 import requests
-import csv
+
 
 
 def fetch_links(xkcd_url):
+    '''
+    scrapes image link and
+    page link.
+    '''
+
     xkcd_links = {}
 
     while True:
@@ -15,16 +21,16 @@ def fetch_links(xkcd_url):
             # find the previous page link
             previous_page_link = soup.find('a', rel='prev')
             link = "https://xkcd.com" + previous_page_link["href"]
-        
+
             # finds the image link
             links = soup.find('div', id="comic")
             image_link = "https:" + links.img["src"]
-    
+
             xkcd_links[link] = image_link
             xkcd_url = link
 
             if xkcd_url.endswith("/1/"):
-               break
+                break
         else:
             response.raise_for_status()
 
@@ -32,6 +38,10 @@ def fetch_links(xkcd_url):
 
 
 def write_to_csv(image_and_page_links):
+    '''
+    writes scraped image and page link
+    from xkcd to csv file.
+    '''
 
     with open('xkcd_website_links.csv', 'w') as file:
         csvwriter = csv.writer(file, delimiter=',')
@@ -41,6 +51,6 @@ def write_to_csv(image_and_page_links):
 
 
 if __name__ == "__main__":
-    xkcd_url = "https://xkcd.com"
-    image_and_page_links = fetch_links(xkcd_url)
+    URL = "https://xkcd.com"
+    image_and_page_links = fetch_links(URL)
     write_to_csv(image_and_page_links)
