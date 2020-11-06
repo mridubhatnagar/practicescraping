@@ -24,8 +24,6 @@ def fetch_links(xkcd_url):
             previous_page_link = soup.find('a', rel='prev')
             if previous_page_link:
                 link = "https://xkcd.com" + previous_page_link["href"]
-
-
             # finds the image link
             links = soup.select("#comic > img")
             if links:
