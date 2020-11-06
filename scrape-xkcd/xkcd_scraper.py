@@ -11,6 +11,8 @@ def fetch_links(xkcd_url):
     '''
 
     xkcd_links = {}
+    link = ''
+    image_link = '' 
 
     while True:
         response = requests.get(xkcd_url)
@@ -20,11 +22,17 @@ def fetch_links(xkcd_url):
 
             # find the previous page link
             previous_page_link = soup.find('a', rel='prev')
-            link = "https://xkcd.com" + previous_page_link["href"]
+            if previous_page_link:
+                link = "https://xkcd.com" + previous_page_link["href"]
+
 
             # finds the image link
-            links = soup.find('div', id="comic")
-            image_link = "https:" + links.img["src"]
+            links = soup.select("#comic > img")
+            if links:
+                image_link = "https:" + links[0]["src"]
+
+            else:
+                image_link = "could not find image"
 
             xkcd_links[link] = image_link
             xkcd_url = link
