@@ -9,17 +9,14 @@ def fetch_pages(start_url):
     post_ranks = []
     post_titles = []
     storylinks = []
-    source_links = []
     scores = []
     post_authors = []
     post_age = []
     hn_data = {}
 
     while True:
-        print("===========================================")
-        print(start_url)
-        print("============================================")
         page = requests.get(start_url)
+        print(start_url)
         if page.status_code == 200:
             soup = BeautifulSoup(page.text, 'lxml')
 
@@ -29,7 +26,6 @@ def fetch_pages(start_url):
                     post_ranks.append(rank.text)
                 else:
                     post_ranks.append('')
-            print(post_ranks)
 
             titles_and_links = soup.find_all('a', class_="storylink")
             for title in titles_and_links:
@@ -37,14 +33,12 @@ def fetch_pages(start_url):
                     post_titles.append(title.text)
                 else:
                     post_titles.append('')
-            print(post_titles)
 
             for links in titles_and_links:
                 if links:
-                    storylinks.append(links.text)
+                    storylinks.append(links["href"])
                 else:
                     storylinks.append('')
-            print(storylinks)
 
             meta_data = soup.find_all('td', class_='subtext')
          
@@ -85,8 +79,6 @@ def fetch_pages(start_url):
     hn_data["post_link"] = storylinks
     hn_data["title"] = post_titles
     
-    print("************************************")
-    print(len(post_ranks), len(post_authors), len(post_age), len(scores), len(storylinks), len(post_titles))
     return hn_data
 
 
