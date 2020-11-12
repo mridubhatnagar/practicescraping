@@ -1,291 +1,291 @@
 title,published_date,link
 #289 Discovering exoplanets with Python,"Mon, 09 Nov 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/289/discovering-exoplanets-with-python
-Discovering exoplanets with Python,"Sat, 31 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/288/10-tips-to-move-from-excel-to-python
-#288 10 tips to move from Excel to Python,"Wed, 21 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/287/testing-without-dependencies-mocking-in-python
-10 tips to move from Excel to Python,"Fri, 16 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/286/python-and-ml-at-nasa-jet-propulsion-laboratory-jpl
-"#287 Testing without dependencies, mocking in Python","Fri, 09 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/285/dask-as-a-platform-service-with-coiled
-"Testing without dependencies, mocking in Python","Sun, 04 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/284/modern-and-fast-apis-with-fastapi
-#286 Python and ML at NASA Jet Propulsion Laboratory (JPL),"Wed, 23 Sep 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/283/web-scraping-the-2020-edition
-Python and ML at NASA Jet Propulsion Laboratory (JPL),"Thu, 17 Sep 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/282/pre-commit-framework
-#285 Dask as a Platform Service with Coiled,"Wed, 09 Sep 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/281/python-in-car-racing
-Dask as a Platform Service with Coiled,"Sat, 05 Sep 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/280/python-and-ai-in-journalism
-#284 Modern and fast APIs with FastAPI,"Sat, 29 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/279/modern-python-developers-toolkit
-Modern and fast APIs with FastAPI,"Fri, 21 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/278/teach-kids-python-with-real-programming-and-fun-games-at-code-combat
-"#283 Web scraping, the 2020 edition","Mon, 10 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/277/10-tips-every-django-developer-should-know
-"Web scraping, the 2020 edition","Thu, 06 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/276/geekout-life-in-the-solar-system-and-beyond
-#282 pre-commit framework,"Sat, 01 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/275/beautiful-pythonic-refactorings
-pre-commit framework,"Fri, 24 Jul 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/274/profiling-data-science-code-with-fil
-#281 Python in Car Racing,"Sat, 18 Jul 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/273/cocalc-a-fully-colloborative-notebook-development-environment
-Python in Car Racing,"Sun, 12 Jul 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express
-#280 Python and AI in Journalism,"Sat, 04 Jul 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/271/unlock-the-mysteries-of-time-pythons-datetime-that-is
-Python and AI in Journalism,"Thu, 25 Jun 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/270/python-in-supply-chains-oil-rigs-rockets-and-lettuce
-#279 Modern Python Developer's Toolkit,"Fri, 19 Jun 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/269/holoviz-a-suite-of-tools-for-python-visualization
-Modern Python Developer's Toolkit,"Sat, 13 Jun 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/268/analyzing-dozens-of-notebook-environments
-#278 Teach kids Python with real programming and fun games at Code Combat,"Sat, 06 Jun 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins
-Teach kids Python with real programming and fun games at Code Combat,"Fri, 29 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/266/refactoring-your-code-like-magic-with-sourcery
-#277 10 tips every Django developer should know,"Tue, 19 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/265/why-is-python-slow
-10 tips every Django developer should know,"Tue, 12 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/264/10-tips-every-flask-developer-should-know
-#276 Geekout: Life in the solar system and beyond,"Wed, 06 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/263/seo-for-developers
-Geekout: Life in the solar system and beyond,"Fri, 01 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/262/build-a-career-in-data-science
-#275 Beautiful Pythonic Refactorings,"Sat, 25 Apr 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/261/monitoring-and-auditing-machine-learning
-Beautiful Pythonic Refactorings,"Sat, 18 Apr 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/260/from-basic-script-to-interactive-data-sci-app-with-streamlit
-#274 Profiling data science code with FIL,"Thu, 09 Apr 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/259/from-academia-to-tech-industry-and-python
-Profiling data science code with FIL,"Sat, 04 Apr 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/258/thriving-in-a-remote-developer-environment
-#273 CoCalc: A fully colloborative notebook development environment,"Sat, 28 Mar 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/257/exploring-the-galaxy-with-the-fastest-supercomputer-python-and-radio-astronomy
-CoCalc: A fully colloborative notebook development environment,"Fri, 20 Mar 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/256/click-to-run-your-notebook-with-binder
-#272 No IoT things in hand? Simulate them with Device Simulator Express,"Sat, 14 Mar 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/255/talking-to-cars-with-python
-No IoT things in hand? Simulate them with Device Simulator Express,"Fri, 06 Mar 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/254/a-python-mentorship-story
-"#271 Unlock the mysteries of time, Python's datetime that is!","Tue, 25 Feb 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/253/moon-base-geekout
-"Unlock the mysteries of time, Python's datetime that is!","Fri, 21 Feb 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/252/what-scientific-computing-can-learn-from-cs
-"#270 Python in supply chains: oil rigs, rockets, and lettuce","Thu, 13 Feb 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/251/building-and-ux-testing-azures-python-sdk
-"Python in supply chains: oil rigs, rockets, and lettuce","Sat, 08 Feb 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/250/capture-over-400x-c02-as-trees-with-ai-and-python
-#269 HoloViz - a suite of tools for Python visualization,"Thu, 30 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/249/capture-the-staff-of-pythonic-knowledge-in-twilioquest
-HoloViz - a suite of tools for Python visualization,"Fri, 24 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/248/climate-change-and-your-python-code
-#268 Analyzing dozens of notebook environments,"Thu, 16 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/247/solo-maintainer-of-open-source-in-academia
-Analyzing dozens of notebook environments,"Thu, 09 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/246/practices-of-the-python-pro
-#267 15 amazing pytest plugins,"Fri, 03 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/245/python-packaging-landscape-in-2020
-15 amazing pytest plugins,"Fri, 27 Dec 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/244/top-10-real-python-articles-of-2019
-"#266 Refactoring your code, like magic with Sourcery","Tue, 17 Dec 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/243/python-on-windows-is-ok-actually
-"Refactoring your code, like magic with Sourcery","Wed, 11 Dec 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/242/your-education-will-be-live-streamed
-#265 Why is Python slow?,"Sat, 07 Dec 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/241/opal-full-stack-health-care-apps
-Why is Python slow?,"Wed, 27 Nov 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/240/a-guided-tour-of-the-cpython-source-code
-#264 10 tips every Flask developer should know,"Sat, 23 Nov 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/239/bayesian-foundations
-10 tips every Flask developer should know,"Thu, 14 Nov 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/238/collaborative-data-science-with-gigantum
-#263 SEO for developers,"Wed, 06 Nov 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/237/a-gut-feeling-about-python
-SEO for developers,"Tue, 29 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/236/scaling-data-science-across-python-and-r
-#262 Build a career in data science,"Wed, 23 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/235/python-in-your-browser-with-skulpt
-Build a career in data science,"Tue, 15 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/234/awesome-python-applications
-#261 Monitoring and auditing machine learning,"Thu, 10 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/233/the-masonite-python-web-framework
-Monitoring and auditing machine learning,"Fri, 04 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/232/become-a-robot-developer-with-python
-#260 From basic script to interactive data sci app with Streamlit,"Wed, 25 Sep 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/231/advice-for-freelancing-with-python
-From basic script to interactive data sci app with Streamlit,"Wed, 18 Sep 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/230/python-in-digital-humanities-research
-#259 From Academia to Tech Industry and Python,"Thu, 12 Sep 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/229/building-advanced-pythonic-interviews-with-docassemble
-From Academia to Tech Industry and Python,"Wed, 04 Sep 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/228/hunting-bugs-and-tech-startups-with-python
-#258 Thriving in a remote developer environment ,"Wed, 28 Aug 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/227/maintainable-data-science-tips-for-non-developers
-Thriving in a remote developer environment ,"Fri, 23 Aug 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/226/building-flask-apis-for-data-scientists
-"#257 Exploring the galaxy with the fastest supercomputer, Python, and radio astronomy","Mon, 12 Aug 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/225/can-subinterpreters-free-us-from-pythons-gil
-"Exploring the galaxy with the fastest supercomputer, Python, and radio astronomy","Mon, 05 Aug 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/224/12-lessons-from-100-days-of-web
-#256 Click to run your notebook with Binder,"Tue, 30 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/223/fun-and-easy-2d-games-with-python
-Click to run your notebook with Binder,"Fri, 26 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/222/interactive-graphs-with-bokeh-and-python
-#255 Talking to cars with Python,"Thu, 18 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/221/empowering-developers-by-embedding-python
-Talking to cars with Python,"Fri, 12 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/220/machine-learning-in-the-cloud-with-azure-ml
-#254 A Python mentorship story,"Fri, 05 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/219/take-a-python-tour-of-duty-at-the-united-states-digital-service
-A Python mentorship story,"Tue, 25 Jun 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/218/serverless-python-functions-in-azure
-#253 Moon base geekout,"Fri, 21 Jun 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/217/notebooks-vs-data-science-enabled-scripts
-Moon base geekout,"Fri, 14 Jun 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/216/digging-into-visual-studio-code
-#252 What scientific computing can learn from CS,"Thu, 06 Jun 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/215/the-software-powering-talk-python-courses-and-podcast
-What scientific computing can learn from CS,"Fri, 31 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/214/dive-into-cpython-3.8-and-beyond
-#251 Building and UX Testing Azure's Python SDK,"Sat, 25 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/213/webassembly-and-cpython
-Building and UX Testing Azure's Python SDK,"Fri, 17 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/212/python-in-web-assembly-with-pyodide
-#250 Capture over 400x C02 as trees with AI and Python,"Sat, 11 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/211/classic-cs-problems-in-python
-Capture over 400x C02 as trees with AI and Python,"Thu, 02 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/210/making-the-most-out-of-in-person-training
-#249 Capture the Staff of Pythonic Knowledge in TwilioQuest,"Sun, 28 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/209/inside-pythons-new-governance-model
-Capture the Staff of Pythonic Knowledge in TwilioQuest,"Sun, 21 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/208/packaging-making-the-most-of-pycon-and-more
-#248 Climate change and your Python code,"Sun, 14 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/207/parallelizing-computation-with-dask
-Climate change and your Python code,"Sat, 06 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/206/running-django-in-production
-#247 Solo maintainer of open-source in academia,"Tue, 02 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/205/beginners-and-experts-panel
-Solo maintainer of open-source in academia,"Thu, 21 Mar 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/204/staticframe-like-pandas-but-safer
-#246 Practices of the Python Pro,"Wed, 13 Mar 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/203/beginners-and-experts-in-software-development
-Practices of the Python Pro,"Sat, 09 Mar 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/202/building-a-software-business
-#245 Python packaging landscape in 2020,"Wed, 27 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/201/choosing-jupyterhub-and-python-over-matlab
-Python packaging landscape in 2020,"Thu, 21 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/200/escaping-excel-hell-with-python-and-pandas
-#244 Top 10 Real Python Articles of 2019,"Thu, 14 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/199/automate-all-the-things-with-python-at-zapier
-Top 10 Real Python Articles of 2019,"Sat, 09 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/198/catching-up-with-the-anaconda-distribution
-"#243 Python on Windows is OK, actually","Sat, 02 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/197/modern-python-standard-library-cookbook
-"Python on Windows is OK, actually","Wed, 23 Jan 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/196/datalore-hosted-smart-notebooks
-#242 Your education will be live-streamed,"Sun, 20 Jan 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/195/teaching-python-at-apple
-Your education will be live-streamed,"Fri, 11 Jan 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/194/learning-and-teaching-python-in-a-vacuum
-#241 Opal: Full stack health care apps,"Mon, 31 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/193/data-science-year-in-review-2018-edition
-Opal: Full stack health care apps,"Wed, 26 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/192/python-year-in-review-2018-edition
-#240 A guided tour of the CPython source code,"Tue, 18 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/191/pythons-journey-at-microsoft
-A guided tour of the CPython source code,"Tue, 11 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/190/teaching-django
-#239 Bayesian foundations,"Fri, 07 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/189/war-stories-of-the-developer-evangelists
-Bayesian foundations,"Sat, 01 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/188/async-for-the-pythonic-web-with-sanic
-#238 Collaborative data science with Gigantum,"Tue, 20 Nov 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/187/secure-all-the-things-with-hubblestack
-Collaborative data science with Gigantum,"Fri, 16 Nov 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/186/100-days-of-python-in-a-magical-universe
-#237 A gut feeling about Python,"Fri, 09 Nov 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/185/creating-a-python-3-culture-at-facebook
-A gut feeling about Python,"Fri, 02 Nov 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/184/teaching-python-with-bbc-micro-bit
-#236 Scaling data science across Python and R,"Wed, 24 Oct 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/183/qt-for-python
-Scaling data science across Python and R,"Wed, 17 Oct 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/182/picture-python-at-shutterfly
-#235 Python in your Browser with Skulpt,"Fri, 12 Oct 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/181/30-amazing-python-projects
-Python in your Browser with Skulpt,"Tue, 02 Oct 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/180/whats-new-in-python-3.7-and-beyond
-#234 Awesome Python Applications,"Wed, 26 Sep 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/179/python-language-summit-2018
-Awesome Python Applications,"Fri, 21 Sep 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/178/coverage.py
-#233 The Masonite Python Web Framework,"Sat, 15 Sep 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/177/flask-goes-1.0
-The Masonite Python Web Framework,"Mon, 10 Sep 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/176/the-python-community-by-the-numbers
-#232 Become a robot developer with Python,"Fri, 31 Aug 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/175/teaching-python-to-network-engineers
-Become a robot developer with Python,"Thu, 16 Aug 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/174/coming-into-python-from-another-industry-part-2
-#231 Advice for freelancing with Python,"Tue, 07 Aug 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/173/coming-into-python-from-another-industry-part-1
-Advice for freelancing with Python,"Wed, 01 Aug 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/172/nuitka-a-full-python-compiler
-#230 Python in digital humanities research,"Sun, 29 Jul 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed
-Python in digital humanities research,"Fri, 20 Jul 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/170/guido-van-rossum-steps-down
-#229 Building advanced Pythonic interviews with docassemble,"Fri, 13 Jul 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/169/becoming-a-python-content-creator
-Building advanced Pythonic interviews with docassemble,"Fri, 06 Jul 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/168/10-python-security-holes-and-how-to-plug-them
-#228 Hunting bugs and tech startups with Python,"Fri, 29 Jun 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/167/simplifying-pythons-async-with-trio
-Hunting bugs and tech startups with Python,"Thu, 14 Jun 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/166/continuous-delivery-with-python
-#227 Maintainable data science: Tips for non-developers,"Fri, 08 Jun 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/165/python-and-the-blockchain
-Maintainable data science: Tips for non-developers,"Fri, 01 Jun 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/164/python-in-brain-research-at-the-allen-institute
-#226 Building Flask APIs for data scientists,"Fri, 25 May 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/163/python-in-geoscience
-Building Flask APIs for data scientists,"Mon, 21 May 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/162/python-in-building-and-architecture
-#225 Can subinterpreters free us from Python's GIL?,"Sat, 12 May 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/161/django-2.0
-Can subinterpreters free us from Python's GIL?,"Fri, 04 May 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/160/lektor-beautiful-websites-out-of-flat-files
-#224 12 lessons from 100 days of web,"Fri, 27 Apr 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/159/inside-the-new-pypi-launch
-12 lessons from 100 days of web,"Fri, 20 Apr 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/158/quantum-computing-and-python
-#223 Fun and Easy 2D Games with Python,"Fri, 06 Apr 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/157/the-journal-of-open-source-software
-Fun and Easy 2D Games with Python,"Sat, 24 Mar 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/156/python-history-and-perspectives
-#222 Interactive graphs with Bokeh and Python,"Fri, 16 Mar 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/155/practical-steps-for-moving-to-python-3
-Interactive graphs with Bokeh and Python,"Wed, 07 Mar 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/154/python-in-biology-and-genomics
-#221 Empowering developers by embedding Python,"Thu, 01 Mar 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/153/how-python-evolves
-Empowering developers by embedding Python,"Fri, 23 Feb 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/152/understanding-and-using-pythons-ast
-#220 Machine Learning in the cloud with Azure ML,"Fri, 16 Feb 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/151/gradual-typing-of-production-applications
-Machine Learning in the cloud with Azure ML,"Thu, 08 Feb 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/150/technical-lessons-learned-from-pythonic-refactoring
-#219 Take a Python tour of duty at the United States Digital Service,"Fri, 02 Feb 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/149/4-python-web-frameworks-compared
-Take a Python tour of duty at the United States Digital Service,"Sun, 28 Jan 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/148/python-book-authors-panel-discussion
-#218 Serverless Python functions in Azure,"Fri, 19 Jan 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/147/quart-flask-but-3x-faster
-Serverless Python functions in Azure,"Thu, 11 Jan 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/146/building-alexa-skills-with-python-and-flask
-#217 Notebooks vs data science-enabled scripts,"Sun, 31 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/145/2017-python-year-in-review
-Notebooks vs data science-enabled scripts,"Tue, 26 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/144/machine-learning-at-the-large-hadron-collider
-#216 Digging into Visual Studio Code,"Wed, 20 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/143/tuning-python-web-app-performance
-Digging into Visual Studio Code,"Wed, 13 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/142/automating-the-web-with-selenium-and-instapy
-#215 The software powering Talk Python courses and podcast,"Thu, 07 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/141/python-tricks
-The software powering Talk Python courses and podcast,"Wed, 29 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/140/level-up-your-python-with-100daysofcode-challenge
-#214 Dive into CPython 3.8 and beyond,"Wed, 22 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career
-Dive into CPython 3.8 and beyond,"Wed, 15 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/138/anvil-all-web-all-python
-#213 WebAssembly and CPython,"Wed, 08 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/137/design-concepts-and-tips-for-developers
-WebAssembly and CPython,"Thu, 02 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/136/secure-code-lessons-from-have-i-been-pwned
-#212 Python in Web Assembly with Pyodide,"Fri, 27 Oct 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/135/capturing-human-moments-with-ai-and-python
-Python in Web Assembly with Pyodide,"Thu, 19 Oct 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/134/python-in-climate-science
-#211 Classic CS problems in Python,"Wed, 11 Oct 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/133/productivity-for-developers
-Classic CS problems in Python,"Wed, 04 Oct 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/132/contributing-to-open-source
-#210 Making the most out of in-person training,"Tue, 26 Sep 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries
-Making the most out of in-person training,"Tue, 19 Sep 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/130/10-books-python-developers-should-be-reading
-#209 Inside Python's new governance model,"Thu, 14 Sep 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/129/falcon-the-bare-metal-python-web-framework
-Inside Python's new governance model,"Thu, 07 Sep 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/128/pythonic-networks-with-napalm
-"#208 Packaging, Making the most of PyCon, and more","Thu, 31 Aug 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/127/shipping-software-to-users
-"Packaging, Making the most of PyCon, and more","Tue, 22 Aug 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/126/kubernetes-for-pythonistas
-#207 Parallelizing computation with Dask,"Tue, 15 Aug 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/125/django-rest-framework-and-a-new-api-star-is-born
-Parallelizing computation with Dask,"Mon, 07 Aug 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/124/python-for-ai-research
-#206 Running Django in Production,"Mon, 31 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/123/lessons-from-100-straight-dev-job-interviews
-Running Django in Production,"Wed, 26 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/122/home-assistant-pythonic-home-automation
-#205 Beginners and Experts Panel,"Wed, 19 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/121/microservices-in-python
-Beginners and Experts Panel,"Wed, 12 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/120/python-in-finance
-"#204 StaticFrame, like Pandas but safer","Thu, 06 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/119/python-in-engineering
-"StaticFrame, like Pandas but safer","Tue, 27 Jun 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/118/serverless-software
-#203 Beginners and Experts in Software Development,"Wed, 21 Jun 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/117/functional-python-with-coconut
-Beginners and Experts in Software Development,"Mon, 12 Jun 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/116/10-top-talks-of-pycon-2017-reviewed
-#202 Building a software business,"Thu, 08 Jun 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/115/python-for-humans-projects
-Building a software business,"Tue, 30 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/114/empowering-developers-at-the-hidden-genius-project
-#201 Choosing JupyterHub and Python over MATLAB,"Sat, 27 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/113/dedicated-ai-chips-and-running-old-python-faster-at-intel
-Choosing JupyterHub and Python over MATLAB,"Thu, 18 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/112/geeking-out-in-the-golden-years
-#200 Escaping Excel Hell with Python and Pandas,"Sat, 13 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/111/pythonic-career-advice-and-more
-Escaping Excel Hell with Python and Pandas,"Tue, 02 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/110/data-democratization-with-redash
-#199 Automate all the things with Python at Zapier,"Sat, 29 Apr 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/109/mongodb-applied-design-patterns
-Automate all the things with Python at Zapier,"Fri, 21 Apr 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/108/micropython-and-open-source-hardware-at-adafruit
-#198 Catching up with the Anaconda distribution,"Sat, 15 Apr 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/107/python-concurrency-with-curio
-Catching up with the Anaconda distribution,"Fri, 07 Apr 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/106/invent-your-own-computer-games-with-python
-#197 Modern Python Standard Library Cookbook,"Mon, 27 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/105/a-pythonic-database-tour
-Modern Python Standard Library Cookbook,"Thu, 23 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/104/game-theory-in-python
-#196 Datalore: Hosted smart notebooks,"Thu, 16 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/103/compiling-python-through-pyllvm-and-mongodb-for-data-scientists
-Datalore: Hosted smart notebooks,"Wed, 08 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/102/effective-code-reviews
-#195 Teaching Python at Apple,"Fri, 03 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/101/adding-a-full-featured-python-environment-to-visual-studio-code
-Teaching Python at Apple,"Wed, 22 Feb 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
-#194 Learning (and teaching) Python in a vacuum,"Wed, 15 Feb 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/99/morepath-super-powered-python-web-framework
-Learning (and teaching) Python in a vacuum,"Wed, 08 Feb 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/98/adding-concurrency-to-django-with-django-channels
-#193 Data Science Year in Review 2018 Edition,"Thu, 02 Feb 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/97/flask-django-style-with-flask-diamond
-Data Science Year in Review 2018 Edition,"Wed, 25 Jan 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/96/exploring-awesome-python
-#192 Python Year in Review 2018 Edition,"Wed, 18 Jan 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/95/grumpy-running-python-on-go
-Python Year in Review 2018 Edition,"Wed, 11 Jan 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/94/guarenteed-packages-via-conda-and-conda-forge
-#191 Python's journey at Microsoft,"Tue, 03 Jan 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/93/spreading-python-through-the-sciences-with-software-carpentry
-Python's journey at Microsoft,"Thu, 29 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/92/bonus-python-bytes-crossover-python-3.6-is-going-to-be-awesome-kite-your-friendly-co-developing-ai
-#190 Teaching Django,"Tue, 27 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/91/top-10-data-science-stories-of-2016
-Teaching Django,"Wed, 21 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/90/data-wrangling-with-python
-#189 War Stories of the Developer Evangelists,"Thu, 15 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/89/a-conversation-with-the-chief-data-scientist-of-the-united-states
-War Stories of the Developer Evangelists,"Tue, 06 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/88/lightweight-django
-#188 Async for the Pythonic web with Sanic,"Tue, 29 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/87/ponyorm-the-most-pythonic-orm-yet
-Async for the Pythonic web with Sanic,"Thu, 24 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/86/python-at-stackoverflow
-#187 Secure all the things with HubbleStack,"Thu, 17 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/85/parsing-horrible-things-with-python
-Secure all the things with HubbleStack,"Tue, 08 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/84/are-we-failing-to-fund-pythons-core-infrastructure
-#186 100 Days of Python in a Magical Universe,"Wed, 02 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/83/python-videos-on-demand-at-pyvideo
-100 Days of Python in a Magical Universe,"Thu, 27 Oct 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/82/grokking-algorithms-in-python
-#185 Creating a Python 3 Culture at Facebook,"Fri, 21 Oct 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/81/python-and-machine-learning-in-astronomy
-Creating a Python 3 Culture at Facebook,"Sun, 16 Oct 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/80/tinydb-a-tiny-document-db-written-in-python
-#184 Teaching Python with BBC micro:bit,"Fri, 07 Oct 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/79/beeware-python-tools
-Teaching Python with BBC micro:bit,"Wed, 28 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/78/how-i-built-an-entire-game-and-toolchain-100-in-python
-#183 Qt for Python,"Fri, 23 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/77/20-python-libraries-you-arent-using-but-should
-Qt for Python,"Thu, 15 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/76/renewable-python
-#182 Picture Python at Shutterfly,"Fri, 09 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/75/pythonic-games-at-checkio
-Picture Python at Shutterfly,"Fri, 02 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/74/past-present-and-future-of-ironpython
-#181 30 amazing Python projects,"Fri, 26 Aug 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/73/machine-learning-at-the-new-microsoft
-30 amazing Python projects,"Fri, 19 Aug 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/72/fashion-driven-open-source-software-at-zalando
-#180 What's new in Python 3.7 and beyond,"Thu, 11 Aug 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/71/soft-skills-the-software-developers-life-manual
-What's new in Python 3.7 and beyond,"Fri, 05 Aug 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/70/pythonic-cover-songs-at-loudr
-#179 Python Language Summit 2018,"Tue, 26 Jul 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/69/write-an-excellent-programming-blog
-Python Language Summit 2018,"Wed, 20 Jul 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/68/crossing-the-streams-with-podcast.-init
-#178 Coverage.py,"Wed, 13 Jul 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/67/property-based-testing-with-hypothesis
-Coverage.py,"Thu, 07 Jul 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/66/faster-python-programs-measure-dont-guess
-#177 Flask goes 1.0,"Wed, 29 Jun 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/65/jump-on-the-real-time-web-with-rethinkdb
-Flask goes 1.0,"Fri, 24 Jun 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/64/inside-the-python-package-index
-#176 The Python Community by the Numbers,"Thu, 16 Jun 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing
-The Python Community by the Numbers,"Tue, 07 Jun 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/62/san-diego-technology-immersion-group-learns-python
-#175 Teaching Python to network engineers,"Mon, 30 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/61/free-software-free-people
-Teaching Python to network engineers,"Tue, 24 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/60/scaling-python-to-1000s-of-cores-with-ufora
-#174 Coming into Python from another Industry (part 2),"Wed, 18 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/59/sagemath-open-source-is-ready-to-compete-in-the-classroom
-Coming into Python from another Industry (part 2),"Tue, 10 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/58/create-better-python-programs-with-concurrency-libraries-and-patterns
-#173 Coming into Python from another Industry (part 1),"Thu, 05 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/57/python-performance-from-the-inside-out-at-intel
-Coming into Python from another Industry (part 1),"Wed, 27 Apr 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/56/data-science-from-scratch
-#172 Nuitka: A full Python compiler,"Thu, 21 Apr 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/55/how-our-engineering-environments-are-killing-diversity-and-how-we-can-fix-it
-Nuitka: A full Python compiler,"Thu, 14 Apr 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/54/enterprise-software-with-python
-#171 1M Jupyter notebooks analyzed,"Wed, 06 Apr 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/53/python-in-visual-studio
-1M Jupyter notebooks analyzed,"Sun, 27 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/52/eve-online-mmo-game-powered-by-python
-#170 Guido van Rossum steps down,"Mon, 21 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/51/sigopt-optimizing-everything-with-python
-Guido van Rossum steps down,"Tue, 15 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/50/web-scraping-at-scale-with-scrapy-and-scrapinghub
-#169 Becoming a Python content creator,"Tue, 08 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/49/microsofts-jit-based-python-project-pyjion
-Becoming a Python content creator,"Tue, 01 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/48/building-flask-based-web-apps
-#168 10 Python security holes and how to plug them,"Tue, 23 Feb 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/47/python-in-typeface-and-font-development
-10 Python security holes and how to plug them,"Tue, 16 Feb 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/46/python-in-movies-and-entertainment
-#167 Simplifying Python's Async with Trio,"Tue, 09 Feb 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/45/the-python-testing-column-now-a-thing
-Simplifying Python's Async with Trio,"Tue, 02 Feb 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/44/project-jupyter-and-ipython
-#166 Continuous delivery with Python,"Tue, 26 Jan 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/43/monitoring-high-performance-python-apps-at-opbeat
-Continuous delivery with Python,"Tue, 19 Jan 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/42/python-in-startups-and-investing
-#165 Python and the blockchain,"Tue, 12 Jan 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/41/getting-your-first-dev-job-as-a-python-developer-part-2
-Python and the blockchain,"Tue, 29 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/40/top-10-data-science-stories-from-2015
-#164 Python in Brain Research at the Allen Institute,"Tue, 22 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/39/getting-your-first-dev-job-as-a-python-developer-part-1
-Python in Brain Research at the Allen Institute,"Tue, 15 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/38/continuous-integration-and-delivery-at-codeship
-#163 Python in Geoscience,"Tue, 08 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/37/python-cybersecurity-and-penetration-testing
-Python in Geoscience,"Tue, 01 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team
-#162 Python in Building and Architecture,"Tue, 24 Nov 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/35/turbogears-and-the-future-of-python-web-frameworks
-Python in Building and Architecture,"Tue, 17 Nov 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/34/continuum-scientific-python-and-the-business-of-open-source
-#161 Django 2.0,"Tue, 10 Nov 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/33/openstack-cloud-computing-built-on-python
-Django 2.0,"Tue, 03 Nov 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser
-#160 Lektor: Beautiful websites out of flat files,"Tue, 27 Oct 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/31/machine-learning-with-python-and-scikit-learn
-Lektor: Beautiful websites out of flat files,"Tue, 20 Oct 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/30/python-community-and-python-at-dropbox
-#159 Inside the new PyPI launch,"Tue, 13 Oct 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/29/python-at-the-large-hadron-collider-and-cern
-Inside the new PyPI launch,"Tue, 06 Oct 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/28/making-python-fast-profiling-python-code
-#158 Quantum Computing and Python,"Tue, 29 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/27/four-years-of-python-for-high-schoolers
-Quantum Computing and Python,"Tue, 22 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/26/deploying-python-web-applications-updated
-#157 The Journal of Open Source Software,"Tue, 15 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/25/effective-python
-The Journal of Open Source Software,"Tue, 08 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/24/fluent-python
-#156 Python History and Perspectives,"Tue, 01 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/23/3d-printing-with-python-at-authentise
-Python History and Perspectives,"Tue, 25 Aug 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/22/cpython-internals-and-learning-python-with-pythontutor.com
-#155 Practical steps for moving to Python 3,"Tue, 18 Aug 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/21/pypy-the-jit-compiled-python-implementation
-Practical steps for moving to Python 3,"Tue, 11 Aug 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/20/interactive-python-and-teaching-python-beyond-text-books
-#154 Python in Biology and Genomics,"Tue, 04 Aug 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/19/automate-the-boring-stuff-with-python
-Python in Biology and Genomics,"Tue, 28 Jul 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/18/python-anti-patterns-and-other-mistakes
-#153 How Python Evolves,"Tue, 21 Jul 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/17/python-on-bare-metal-with-micropython
-How Python Evolves,"Tue, 14 Jul 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/16/python-at-netflix
-#152 Understanding and using Python's AST,"Tue, 07 Jul 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/15/python-at-spotify-psf-and-pyladies
-Understanding and using Python's AST,"Tue, 30 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/14/moving-from-php-to-python-3-with-patreon
-#151 Gradual Typing of Production Applications,"Tue, 23 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/13/flask-web-framework-and-much-much-more
-Gradual Typing of Production Applications,"Tue, 16 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/12/deep-dive-into-modules-and-packages
-#150 Technical Lessons Learned from Pythonic Refactoring,"Tue, 09 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/11/pyimagesearch-and-computer-vision
-Technical Lessons Learned from Pythonic Refactoring,"Tue, 02 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/10/bringing-python-to-the-masses-with-hosting-and-devops-at-pythonanywhere
-"#149 4 Python Web Frameworks, Compared","Tue, 26 May 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/9/docker-for-the-python-developer
-"4 Python Web Frameworks, Compared","Tue, 19 May 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/8/teaching-python-at-grok-learning-and-classrooms
-#148 Python Book Authors'  Panel Discussion,"Tue, 12 May 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/7/robot-operating-system-ros-and-rospy
-Python Book Authors'  Panel Discussion,"Tue, 05 May 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/6/requests-pycon-and-pythons-future
-"#147 Quart: Flask, but 3x faster","Tue, 28 Apr 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/5/sqlalchemy-and-data-access-in-python
-"Quart: Flask, but 3x faster","Thu, 23 Apr 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/4/enterprise-python-and-large-scale-projects
-#146 Building Alexa Skills with Python and Flask,"Thu, 16 Apr 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/3/pyramid-web-framework
-Building Alexa Skills with Python and Flask,"Tue, 07 Apr 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/2/python-and-mongodb
-#145 2017 Python Year in Review,"Tue, 31 Mar 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/1/eve-restful-apis-for-humans
-2017 Python Year in Review,"Sat, 21 Mar 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/0/introducing-the-show
+#288 10 tips to move from Excel to Python,"Sat, 31 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/288/10-tips-to-move-from-excel-to-python
+"#287 Testing without dependencies, mocking in Python","Wed, 21 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/287/testing-without-dependencies-mocking-in-python
+#286 Python and ML at NASA Jet Propulsion Laboratory (JPL),"Fri, 16 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/286/python-and-ml-at-nasa-jet-propulsion-laboratory-jpl
+#285 Dask as a Platform Service with Coiled,"Fri, 09 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/285/dask-as-a-platform-service-with-coiled
+#284 Modern and fast APIs with FastAPI,"Sun, 04 Oct 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/284/modern-and-fast-apis-with-fastapi
+"#283 Web scraping, the 2020 edition","Wed, 23 Sep 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/283/web-scraping-the-2020-edition
+#282 pre-commit framework,"Thu, 17 Sep 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/282/pre-commit-framework
+#281 Python in Car Racing,"Wed, 09 Sep 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/281/python-in-car-racing
+#280 Python and AI in Journalism,"Sat, 05 Sep 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/280/python-and-ai-in-journalism
+#279 Modern Python Developer's Toolkit,"Sat, 29 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/279/modern-python-developers-toolkit
+#278 Teach kids Python with real programming and fun games at Code Combat,"Fri, 21 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/278/teach-kids-python-with-real-programming-and-fun-games-at-code-combat
+#277 10 tips every Django developer should know,"Mon, 10 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/277/10-tips-every-django-developer-should-know
+#276 Geekout: Life in the solar system and beyond,"Thu, 06 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/276/geekout-life-in-the-solar-system-and-beyond
+#275 Beautiful Pythonic Refactorings,"Sat, 01 Aug 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/275/beautiful-pythonic-refactorings
+#274 Profiling data science code with FIL,"Fri, 24 Jul 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/274/profiling-data-science-code-with-fil
+#273 CoCalc: A fully colloborative notebook development environment,"Sat, 18 Jul 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/273/cocalc-a-fully-colloborative-notebook-development-environment
+#272 No IoT things in hand? Simulate them with Device Simulator Express,"Sun, 12 Jul 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express
+"#271 Unlock the mysteries of time, Python's datetime that is!","Sat, 04 Jul 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/271/unlock-the-mysteries-of-time-pythons-datetime-that-is
+"#270 Python in supply chains: oil rigs, rockets, and lettuce","Thu, 25 Jun 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/270/python-in-supply-chains-oil-rigs-rockets-and-lettuce
+#269 HoloViz - a suite of tools for Python visualization,"Fri, 19 Jun 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/269/holoviz-a-suite-of-tools-for-python-visualization
+#268 Analyzing dozens of notebook environments,"Sat, 13 Jun 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/268/analyzing-dozens-of-notebook-environments
+#267 15 amazing pytest plugins,"Sat, 06 Jun 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins
+"#266 Refactoring your code, like magic with Sourcery","Fri, 29 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/266/refactoring-your-code-like-magic-with-sourcery
+#265 Why is Python slow?,"Tue, 19 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/265/why-is-python-slow
+#264 10 tips every Flask developer should know,"Tue, 12 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/264/10-tips-every-flask-developer-should-know
+#263 SEO for developers,"Wed, 06 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/263/seo-for-developers
+#262 Build a career in data science,"Fri, 01 May 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/262/build-a-career-in-data-science
+#261 Monitoring and auditing machine learning,"Sat, 25 Apr 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/261/monitoring-and-auditing-machine-learning
+#260 From basic script to interactive data sci app with Streamlit,"Sat, 18 Apr 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/260/from-basic-script-to-interactive-data-sci-app-with-streamlit
+#259 From Academia to Tech Industry and Python,"Thu, 09 Apr 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/259/from-academia-to-tech-industry-and-python
+#258 Thriving in a remote developer environment ,"Sat, 04 Apr 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/258/thriving-in-a-remote-developer-environment
+"#257 Exploring the galaxy with the fastest supercomputer, Python, and radio astronomy","Sat, 28 Mar 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/257/exploring-the-galaxy-with-the-fastest-supercomputer-python-and-radio-astronomy
+#256 Click to run your notebook with Binder,"Fri, 20 Mar 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/256/click-to-run-your-notebook-with-binder
+#255 Talking to cars with Python,"Sat, 14 Mar 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/255/talking-to-cars-with-python
+#254 A Python mentorship story,"Fri, 06 Mar 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/254/a-python-mentorship-story
+#253 Moon base geekout,"Tue, 25 Feb 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/253/moon-base-geekout
+#252 What scientific computing can learn from CS,"Fri, 21 Feb 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/252/what-scientific-computing-can-learn-from-cs
+#251 Building and UX Testing Azure's Python SDK,"Thu, 13 Feb 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/251/building-and-ux-testing-azures-python-sdk
+#250 Capture over 400x C02 as trees with AI and Python,"Sat, 08 Feb 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/250/capture-over-400x-c02-as-trees-with-ai-and-python
+#249 Capture the Staff of Pythonic Knowledge in TwilioQuest,"Thu, 30 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/249/capture-the-staff-of-pythonic-knowledge-in-twilioquest
+#248 Climate change and your Python code,"Fri, 24 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/248/climate-change-and-your-python-code
+#247 Solo maintainer of open-source in academia,"Thu, 16 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/247/solo-maintainer-of-open-source-in-academia
+#246 Practices of the Python Pro,"Thu, 09 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/246/practices-of-the-python-pro
+#245 Python packaging landscape in 2020,"Fri, 03 Jan 2020 00:00:00 -0800",https://talkpython.fm/episodes/show/245/python-packaging-landscape-in-2020
+#244 Top 10 Real Python Articles of 2019,"Fri, 27 Dec 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/244/top-10-real-python-articles-of-2019
+"#243 Python on Windows is OK, actually","Tue, 17 Dec 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/243/python-on-windows-is-ok-actually
+#242 Your education will be live-streamed,"Wed, 11 Dec 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/242/your-education-will-be-live-streamed
+#241 Opal: Full stack health care apps,"Sat, 07 Dec 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/241/opal-full-stack-health-care-apps
+#240 A guided tour of the CPython source code,"Wed, 27 Nov 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/240/a-guided-tour-of-the-cpython-source-code
+#239 Bayesian foundations,"Sat, 23 Nov 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/239/bayesian-foundations
+#238 Collaborative data science with Gigantum,"Thu, 14 Nov 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/238/collaborative-data-science-with-gigantum
+#237 A gut feeling about Python,"Wed, 06 Nov 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/237/a-gut-feeling-about-python
+#236 Scaling data science across Python and R,"Tue, 29 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/236/scaling-data-science-across-python-and-r
+#235 Python in your Browser with Skulpt,"Wed, 23 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/235/python-in-your-browser-with-skulpt
+#234 Awesome Python Applications,"Tue, 15 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/234/awesome-python-applications
+#233 The Masonite Python Web Framework,"Thu, 10 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/233/the-masonite-python-web-framework
+#232 Become a robot developer with Python,"Fri, 04 Oct 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/232/become-a-robot-developer-with-python
+#231 Advice for freelancing with Python,"Wed, 25 Sep 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/231/advice-for-freelancing-with-python
+#230 Python in digital humanities research,"Wed, 18 Sep 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/230/python-in-digital-humanities-research
+#229 Building advanced Pythonic interviews with docassemble,"Thu, 12 Sep 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/229/building-advanced-pythonic-interviews-with-docassemble
+#228 Hunting bugs and tech startups with Python,"Wed, 04 Sep 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/228/hunting-bugs-and-tech-startups-with-python
+#227 Maintainable data science: Tips for non-developers,"Wed, 28 Aug 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/227/maintainable-data-science-tips-for-non-developers
+#226 Building Flask APIs for data scientists,"Fri, 23 Aug 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/226/building-flask-apis-for-data-scientists
+#225 Can subinterpreters free us from Python's GIL?,"Mon, 12 Aug 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/225/can-subinterpreters-free-us-from-pythons-gil
+#224 12 lessons from 100 days of web,"Mon, 05 Aug 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/224/12-lessons-from-100-days-of-web
+#223 Fun and Easy 2D Games with Python,"Tue, 30 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/223/fun-and-easy-2d-games-with-python
+#222 Interactive graphs with Bokeh and Python,"Fri, 26 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/222/interactive-graphs-with-bokeh-and-python
+#221 Empowering developers by embedding Python,"Thu, 18 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/221/empowering-developers-by-embedding-python
+#220 Machine Learning in the cloud with Azure ML,"Fri, 12 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/220/machine-learning-in-the-cloud-with-azure-ml
+#219 Take a Python tour of duty at the United States Digital Service,"Fri, 05 Jul 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/219/take-a-python-tour-of-duty-at-the-united-states-digital-service
+#218 Serverless Python functions in Azure,"Tue, 25 Jun 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/218/serverless-python-functions-in-azure
+#217 Notebooks vs data science-enabled scripts,"Fri, 21 Jun 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/217/notebooks-vs-data-science-enabled-scripts
+#216 Digging into Visual Studio Code,"Fri, 14 Jun 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/216/digging-into-visual-studio-code
+#215 The software powering Talk Python courses and podcast,"Thu, 06 Jun 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/215/the-software-powering-talk-python-courses-and-podcast
+#214 Dive into CPython 3.8 and beyond,"Fri, 31 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/214/dive-into-cpython-3.8-and-beyond
+#213 WebAssembly and CPython,"Sat, 25 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/213/webassembly-and-cpython
+#212 Python in Web Assembly with Pyodide,"Fri, 17 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/212/python-in-web-assembly-with-pyodide
+#211 Classic CS problems in Python,"Sat, 11 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/211/classic-cs-problems-in-python
+#210 Making the most out of in-person training,"Thu, 02 May 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/210/making-the-most-out-of-in-person-training
+#209 Inside Python's new governance model,"Sun, 28 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/209/inside-pythons-new-governance-model
+"#208 Packaging, Making the most of PyCon, and more","Sun, 21 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/208/packaging-making-the-most-of-pycon-and-more
+#207 Parallelizing computation with Dask,"Sun, 14 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/207/parallelizing-computation-with-dask
+#206 Running Django in Production,"Sat, 06 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/206/running-django-in-production
+#205 Beginners and Experts Panel,"Tue, 02 Apr 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/205/beginners-and-experts-panel
+"#204 StaticFrame, like Pandas but safer","Thu, 21 Mar 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/204/staticframe-like-pandas-but-safer
+#203 Beginners and Experts in Software Development,"Wed, 13 Mar 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/203/beginners-and-experts-in-software-development
+#202 Building a software business,"Sat, 09 Mar 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/202/building-a-software-business
+#201 Choosing JupyterHub and Python over MATLAB,"Wed, 27 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/201/choosing-jupyterhub-and-python-over-matlab
+#200 Escaping Excel Hell with Python and Pandas,"Thu, 21 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/200/escaping-excel-hell-with-python-and-pandas
+#199 Automate all the things with Python at Zapier,"Thu, 14 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/199/automate-all-the-things-with-python-at-zapier
+#198 Catching up with the Anaconda distribution,"Sat, 09 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/198/catching-up-with-the-anaconda-distribution
+#197 Modern Python Standard Library Cookbook,"Sat, 02 Feb 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/197/modern-python-standard-library-cookbook
+#196 Datalore: Hosted smart notebooks,"Wed, 23 Jan 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/196/datalore-hosted-smart-notebooks
+#195 Teaching Python at Apple,"Sun, 20 Jan 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/195/teaching-python-at-apple
+#194 Learning (and teaching) Python in a vacuum,"Fri, 11 Jan 2019 00:00:00 -0800",https://talkpython.fm/episodes/show/194/learning-and-teaching-python-in-a-vacuum
+#193 Data Science Year in Review 2018 Edition,"Mon, 31 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/193/data-science-year-in-review-2018-edition
+#192 Python Year in Review 2018 Edition,"Wed, 26 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/192/python-year-in-review-2018-edition
+#191 Python's journey at Microsoft,"Tue, 18 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/191/pythons-journey-at-microsoft
+#190 Teaching Django,"Tue, 11 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/190/teaching-django
+#189 War Stories of the Developer Evangelists,"Fri, 07 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/189/war-stories-of-the-developer-evangelists
+#188 Async for the Pythonic web with Sanic,"Sat, 01 Dec 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/188/async-for-the-pythonic-web-with-sanic
+#187 Secure all the things with HubbleStack,"Tue, 20 Nov 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/187/secure-all-the-things-with-hubblestack
+#186 100 Days of Python in a Magical Universe,"Fri, 16 Nov 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/186/100-days-of-python-in-a-magical-universe
+#185 Creating a Python 3 Culture at Facebook,"Fri, 09 Nov 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/185/creating-a-python-3-culture-at-facebook
+#184 Teaching Python with BBC micro:bit,"Fri, 02 Nov 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/184/teaching-python-with-bbc-micro-bit
+#183 Qt for Python,"Wed, 24 Oct 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/183/qt-for-python
+#182 Picture Python at Shutterfly,"Wed, 17 Oct 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/182/picture-python-at-shutterfly
+#181 30 amazing Python projects,"Fri, 12 Oct 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/181/30-amazing-python-projects
+#180 What's new in Python 3.7 and beyond,"Tue, 02 Oct 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/180/whats-new-in-python-3.7-and-beyond
+#179 Python Language Summit 2018,"Wed, 26 Sep 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/179/python-language-summit-2018
+#178 Coverage.py,"Fri, 21 Sep 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/178/coverage.py
+#177 Flask goes 1.0,"Sat, 15 Sep 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/177/flask-goes-1.0
+#176 The Python Community by the Numbers,"Mon, 10 Sep 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/176/the-python-community-by-the-numbers
+#175 Teaching Python to network engineers,"Fri, 31 Aug 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/175/teaching-python-to-network-engineers
+#174 Coming into Python from another Industry (part 2),"Thu, 16 Aug 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/174/coming-into-python-from-another-industry-part-2
+#173 Coming into Python from another Industry (part 1),"Tue, 07 Aug 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/173/coming-into-python-from-another-industry-part-1
+#172 Nuitka: A full Python compiler,"Wed, 01 Aug 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/172/nuitka-a-full-python-compiler
+#171 1M Jupyter notebooks analyzed,"Sun, 29 Jul 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed
+#170 Guido van Rossum steps down,"Fri, 20 Jul 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/170/guido-van-rossum-steps-down
+#169 Becoming a Python content creator,"Fri, 13 Jul 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/169/becoming-a-python-content-creator
+#168 10 Python security holes and how to plug them,"Fri, 06 Jul 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/168/10-python-security-holes-and-how-to-plug-them
+#167 Simplifying Python's Async with Trio,"Fri, 29 Jun 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/167/simplifying-pythons-async-with-trio
+#166 Continuous delivery with Python,"Thu, 14 Jun 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/166/continuous-delivery-with-python
+#165 Python and the blockchain,"Fri, 08 Jun 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/165/python-and-the-blockchain
+#164 Python in Brain Research at the Allen Institute,"Fri, 01 Jun 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/164/python-in-brain-research-at-the-allen-institute
+#163 Python in Geoscience,"Fri, 25 May 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/163/python-in-geoscience
+#162 Python in Building and Architecture,"Mon, 21 May 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/162/python-in-building-and-architecture
+#161 Django 2.0,"Sat, 12 May 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/161/django-2.0
+#160 Lektor: Beautiful websites out of flat files,"Fri, 04 May 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/160/lektor-beautiful-websites-out-of-flat-files
+#159 Inside the new PyPI launch,"Fri, 27 Apr 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/159/inside-the-new-pypi-launch
+#158 Quantum Computing and Python,"Fri, 20 Apr 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/158/quantum-computing-and-python
+#157 The Journal of Open Source Software,"Fri, 06 Apr 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/157/the-journal-of-open-source-software
+#156 Python History and Perspectives,"Sat, 24 Mar 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/156/python-history-and-perspectives
+#155 Practical steps for moving to Python 3,"Fri, 16 Mar 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/155/practical-steps-for-moving-to-python-3
+#154 Python in Biology and Genomics,"Wed, 07 Mar 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/154/python-in-biology-and-genomics
+#153 How Python Evolves,"Thu, 01 Mar 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/153/how-python-evolves
+#152 Understanding and using Python's AST,"Fri, 23 Feb 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/152/understanding-and-using-pythons-ast
+#151 Gradual Typing of Production Applications,"Fri, 16 Feb 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/151/gradual-typing-of-production-applications
+#150 Technical Lessons Learned from Pythonic Refactoring,"Thu, 08 Feb 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/150/technical-lessons-learned-from-pythonic-refactoring
+"#149 4 Python Web Frameworks, Compared","Fri, 02 Feb 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/149/4-python-web-frameworks-compared
+#148 Python Book Authors'  Panel Discussion,"Sun, 28 Jan 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/148/python-book-authors-panel-discussion
+"#147 Quart: Flask, but 3x faster","Fri, 19 Jan 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/147/quart-flask-but-3x-faster
+#146 Building Alexa Skills with Python and Flask,"Thu, 11 Jan 2018 00:00:00 -0800",https://talkpython.fm/episodes/show/146/building-alexa-skills-with-python-and-flask
+#145 2017 Python Year in Review,"Sun, 31 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/145/2017-python-year-in-review
+#144 Machine Learning at the Large Hadron Collider,"Tue, 26 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/144/machine-learning-at-the-large-hadron-collider
+#143 Tuning Python Web App Performance,"Wed, 20 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/143/tuning-python-web-app-performance
+#142 Automating the web with Selenium and InstaPy,"Wed, 13 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/142/automating-the-web-with-selenium-and-instapy
+#141 Python tricks,"Thu, 07 Dec 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/141/python-tricks
+#140 Level up your Python with #100DaysOfCode challenge,"Wed, 29 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/140/level-up-your-python-with-100daysofcode-challenge
+#139 Paths into a data science career,"Wed, 22 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career
+"#138 Anvil: All web, all Python","Wed, 15 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/138/anvil-all-web-all-python
+#137 Design concepts and tips for developers,"Wed, 08 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/137/design-concepts-and-tips-for-developers
+#136 Secure code lessons from Have I Been Pwned,"Thu, 02 Nov 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/136/secure-code-lessons-from-have-i-been-pwned
+#135 Capturing human moments with AI and Python,"Fri, 27 Oct 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/135/capturing-human-moments-with-ai-and-python
+#134 Python in Climate Science,"Thu, 19 Oct 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/134/python-in-climate-science
+#133 Productivity for developers,"Wed, 11 Oct 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/133/productivity-for-developers
+#132 Contributing to open source,"Wed, 04 Oct 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/132/contributing-to-open-source
+#131 Top 10 machine learning libraries,"Tue, 26 Sep 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries
+#130 10 books Python developers should be reading,"Tue, 19 Sep 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/130/10-books-python-developers-should-be-reading
+#129 Falcon: The bare-metal Python web framework,"Thu, 14 Sep 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/129/falcon-the-bare-metal-python-web-framework
+#128 Pythonic Networks with NAPALM,"Thu, 07 Sep 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/128/pythonic-networks-with-napalm
+#127 Shipping software to users,"Thu, 31 Aug 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/127/shipping-software-to-users
+#126 Kubernetes for Pythonistas ,"Tue, 22 Aug 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/126/kubernetes-for-pythonistas
+#125 Django REST framework and a new API star is born,"Tue, 15 Aug 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/125/django-rest-framework-and-a-new-api-star-is-born
+#124 Python for AI research,"Mon, 07 Aug 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/124/python-for-ai-research
+#123 Lessons from 100 straight dev job interviews,"Mon, 31 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/123/lessons-from-100-straight-dev-job-interviews
+#122 Home Assistant: Pythonic Home Automation,"Wed, 26 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/122/home-assistant-pythonic-home-automation
+#121 Microservices in Python,"Wed, 19 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/121/microservices-in-python
+#120 Python in Finance,"Wed, 12 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/120/python-in-finance
+#119 Python in Engineering,"Thu, 06 Jul 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/119/python-in-engineering
+#118 Serverless software,"Tue, 27 Jun 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/118/serverless-software
+#117 Functional Python with Coconut,"Wed, 21 Jun 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/117/functional-python-with-coconut
+#116 10 top talks of PyCon 2017 reviewed,"Mon, 12 Jun 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/116/10-top-talks-of-pycon-2017-reviewed
+#115 Python for Humans projects,"Thu, 08 Jun 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/115/python-for-humans-projects
+#114 Empowering developers at the Hidden Genius project,"Tue, 30 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/114/empowering-developers-at-the-hidden-genius-project
+#113 Dedicated AI chips and running old Python faster at Intel,"Sat, 27 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/113/dedicated-ai-chips-and-running-old-python-faster-at-intel
+#112 Geeking out in the golden years,"Thu, 18 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/112/geeking-out-in-the-golden-years
+#111 Pythonic Career Advice and More,"Sat, 13 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/111/pythonic-career-advice-and-more
+#110 Data Democratization with Redash,"Tue, 02 May 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/110/data-democratization-with-redash
+#109 MongoDB Applied Design Patterns,"Sat, 29 Apr 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/109/mongodb-applied-design-patterns
+#108 MicroPython and Open Source Hardware at Adafruit,"Fri, 21 Apr 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/108/micropython-and-open-source-hardware-at-adafruit
+#107 Python concurrency with Curio,"Sat, 15 Apr 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/107/python-concurrency-with-curio
+#106 Invent your own computer games with Python,"Fri, 07 Apr 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/106/invent-your-own-computer-games-with-python
+#105 A Pythonic Database Tour,"Mon, 27 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/105/a-pythonic-database-tour
+#104 Game Theory in Python,"Thu, 23 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/104/game-theory-in-python
+#103 Compiling Python through PyLLVM and MongoDB for Data Scientists,"Thu, 16 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/103/compiling-python-through-pyllvm-and-mongodb-for-data-scientists
+#102 Effective Code Reviews,"Wed, 08 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/102/effective-code-reviews
+#101 Adding a full featured Python environment to  Visual Studio Code,"Fri, 03 Mar 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/101/adding-a-full-featured-python-environment-to-visual-studio-code
+"#100 Python past, present, and future with Guido van Rossum","Wed, 22 Feb 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
+#99 Morepath: Super Powered Python Web Framework,"Wed, 15 Feb 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/99/morepath-super-powered-python-web-framework
+#98 Adding concurrency to Django with Django Channels,"Wed, 08 Feb 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/98/adding-concurrency-to-django-with-django-channels
+"#97 Flask, Django style with Flask-Diamond","Thu, 02 Feb 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/97/flask-django-style-with-flask-diamond
+#96 Exploring Awesome Python,"Wed, 25 Jan 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/96/exploring-awesome-python
+#95 Grumpy: Running Python on Go,"Wed, 18 Jan 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/95/grumpy-running-python-on-go
+#94 Guarenteed packages via Conda and Conda-Forge,"Wed, 11 Jan 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/94/guarenteed-packages-via-conda-and-conda-forge
+#93 Spreading Python through the sciences with Software Carpentry,"Tue, 03 Jan 2017 00:00:00 -0800",https://talkpython.fm/episodes/show/93/spreading-python-through-the-sciences-with-software-carpentry
+"#92 Bonus: Python Bytes Crossover: Python 3.6 is going to be awesome, Kite: your friendly co-developing AI","Thu, 29 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/92/bonus-python-bytes-crossover-python-3.6-is-going-to-be-awesome-kite-your-friendly-co-developing-ai
+#91 Top 10 Data Science Stories of 2016,"Tue, 27 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/91/top-10-data-science-stories-of-2016
+#90 Data Wrangling with Python,"Wed, 21 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/90/data-wrangling-with-python
+#89 A conversation with the Chief Data Scientist of the United States,"Thu, 15 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/89/a-conversation-with-the-chief-data-scientist-of-the-united-states
+#88 Lightweight Django,"Tue, 06 Dec 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/88/lightweight-django
+#87 PonyORM: The most Pythonic ORM yet?,"Tue, 29 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/87/ponyorm-the-most-pythonic-orm-yet
+#86 Python at StackOverflow,"Thu, 24 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/86/python-at-stackoverflow
+#85 Parsing horrible things with Python,"Thu, 17 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/85/parsing-horrible-things-with-python
+#84 Are we failing to fund Python's core infrastructure?,"Tue, 08 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/84/are-we-failing-to-fund-pythons-core-infrastructure
+#83 Python Videos on Demand at PyVideo,"Wed, 02 Nov 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/83/python-videos-on-demand-at-pyvideo
+#82 Grokking Algorithms in Python,"Thu, 27 Oct 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/82/grokking-algorithms-in-python
+#81 Python and Machine Learning in Astronomy,"Fri, 21 Oct 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/81/python-and-machine-learning-in-astronomy
+#80 TinyDB: A tiny document db written in Python,"Sun, 16 Oct 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/80/tinydb-a-tiny-document-db-written-in-python
+#79 Beeware Python Tools,"Fri, 07 Oct 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/79/beeware-python-tools
+#78 How I built an entire game and toolchain 100% in Python,"Wed, 28 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/78/how-i-built-an-entire-game-and-toolchain-100-in-python
+#77 20 Python Libraries You Aren't Using (But Should),"Fri, 23 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/77/20-python-libraries-you-arent-using-but-should
+#76 Renewable Python,"Thu, 15 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/76/renewable-python
+#75 Pythonic games at CheckIO,"Fri, 09 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/75/pythonic-games-at-checkio
+"#74 Past, Present, and Future of IronPython","Fri, 02 Sep 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/74/past-present-and-future-of-ironpython
+#73 Machine learning at the new Microsoft,"Fri, 26 Aug 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/73/machine-learning-at-the-new-microsoft
+#72 Fashion-driven open source software at Zalando,"Fri, 19 Aug 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/72/fashion-driven-open-source-software-at-zalando
+#71 Soft Skills: The software developer's life manual ,"Thu, 11 Aug 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/71/soft-skills-the-software-developers-life-manual
+#70 Pythonic cover songs at Loudr,"Fri, 05 Aug 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/70/pythonic-cover-songs-at-loudr
+#69 Write an Excellent Programming Blog,"Tue, 26 Jul 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/69/write-an-excellent-programming-blog
+#68 Crossing the streams with Podcast.__init__,"Wed, 20 Jul 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/68/crossing-the-streams-with-podcast.-init
+#67 Property-based Testing with Hypothesis,"Wed, 13 Jul 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/67/property-based-testing-with-hypothesis
+"#66 Faster Python Programs: Measure, Don't Guess","Thu, 07 Jul 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/66/faster-python-programs-measure-dont-guess
+#65 Jump on the real-time web with RethinkDB,"Wed, 29 Jun 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/65/jump-on-the-real-time-web-with-rethinkdb
+#64 Inside the Python Package Index,"Fri, 24 Jun 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/64/inside-the-python-package-index
+#63 Validating Python tests with mutation testing,"Thu, 16 Jun 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing
+#62 San Diego Technology Immersion Group Learns Python,"Tue, 07 Jun 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/62/san-diego-technology-immersion-group-learns-python
+"#61 Free software, free people","Mon, 30 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/61/free-software-free-people
+#60 Scaling Python to 1000's of cores with Ufora,"Tue, 24 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/60/scaling-python-to-1000s-of-cores-with-ufora
+#59 SageMath - Open source is ready to compete in the classroom,"Wed, 18 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/59/sagemath-open-source-is-ready-to-compete-in-the-classroom
+"#58 Create better Python programs with concurrency, libraries, and patterns","Tue, 10 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/58/create-better-python-programs-with-concurrency-libraries-and-patterns
+#57 Python performance from the inside-out at Intel,"Thu, 05 May 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/57/python-performance-from-the-inside-out-at-intel
+#56 Data Science from Scratch,"Wed, 27 Apr 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/56/data-science-from-scratch
+#55 How our engineering environments are killing diversity (and how we can fix it),"Thu, 21 Apr 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/55/how-our-engineering-environments-are-killing-diversity-and-how-we-can-fix-it
+#54 Enterprise Software with Python,"Thu, 14 Apr 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/54/enterprise-software-with-python
+#53 Python in Visual Studio,"Wed, 06 Apr 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/53/python-in-visual-studio
+#52 EVE Online: MMO game powered by Python,"Sun, 27 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/52/eve-online-mmo-game-powered-by-python
+#51 SigOpt: Optimizing Everything with Python,"Mon, 21 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/51/sigopt-optimizing-everything-with-python
+#50 Web scraping at scale with Scrapy and ScrapingHub,"Tue, 15 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/50/web-scraping-at-scale-with-scrapy-and-scrapinghub
+#49 Microsoft's JIT-based Python Project: Pyjion,"Tue, 08 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/49/microsofts-jit-based-python-project-pyjion
+#48 Building Flask-based Web Apps,"Tue, 01 Mar 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/48/building-flask-based-web-apps
+#47 Python in Typeface and Font Development,"Tue, 23 Feb 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/47/python-in-typeface-and-font-development
+#46 Python in Movies and Entertainment,"Tue, 16 Feb 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/46/python-in-movies-and-entertainment
+"#45 The Python Testing Column, Now a Thing","Tue, 09 Feb 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/45/the-python-testing-column-now-a-thing
+#44 Project Jupyter and IPython,"Tue, 02 Feb 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/44/project-jupyter-and-ipython
+#43 Monitoring high performance Python apps at Opbeat,"Tue, 26 Jan 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/43/monitoring-high-performance-python-apps-at-opbeat
+#42 Python in Startups and Investing,"Tue, 19 Jan 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/42/python-in-startups-and-investing
+#41 Getting your first dev job as a Python developer (part 2),"Tue, 12 Jan 2016 00:00:00 -0800",https://talkpython.fm/episodes/show/41/getting-your-first-dev-job-as-a-python-developer-part-2
+#40 Top 10 Data Science Stories from 2015,"Tue, 29 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/40/top-10-data-science-stories-from-2015
+#39 Getting your first dev job as a Python developer (part 1),"Tue, 22 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/39/getting-your-first-dev-job-as-a-python-developer-part-1
+#38 Continuous Integration and Delivery at Codeship,"Tue, 15 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/38/continuous-integration-and-delivery-at-codeship
+#37 Python Cybersecurity and Penetration Testing,"Tue, 08 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/37/python-cybersecurity-and-penetration-testing
+#36 Python IDEs with the PyCharm team,"Tue, 01 Dec 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team
+#35 Turbogears and the future of Python web frameworks,"Tue, 24 Nov 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/35/turbogears-and-the-future-of-python-web-frameworks
+#34 Continuum: Scientific Python and The Business of Open Source,"Tue, 17 Nov 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/34/continuum-scientific-python-and-the-business-of-open-source
+#33 OpenStack: Cloud computing built on Python,"Tue, 10 Nov 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/33/openstack-cloud-computing-built-on-python
+#32 PyPy.js - PyPy Python in Your Browser,"Tue, 03 Nov 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser
+#31 Machine Learning with Python and scikit-learn,"Tue, 27 Oct 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/31/machine-learning-with-python-and-scikit-learn
+#30 Python Community and Python at Dropbox,"Tue, 20 Oct 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/30/python-community-and-python-at-dropbox
+#29 Python at the Large Hadron Collider and CERN,"Tue, 13 Oct 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/29/python-at-the-large-hadron-collider-and-cern
+#28 Making Python Fast: Profiling Python Code,"Tue, 06 Oct 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/28/making-python-fast-profiling-python-code
+#27 Four Years of Python for High Schoolers,"Tue, 29 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/27/four-years-of-python-for-high-schoolers
+#26 Deploying Python Web Applications (Updated),"Tue, 22 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/26/deploying-python-web-applications-updated
+#25 Effective Python,"Tue, 15 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/25/effective-python
+#24 Fluent Python,"Tue, 08 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/24/fluent-python
+#23 3D Printing with Python at Authentise,"Tue, 01 Sep 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/23/3d-printing-with-python-at-authentise
+#22 CPython Internals and Learning Python with pythontutor.com,"Tue, 25 Aug 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/22/cpython-internals-and-learning-python-with-pythontutor.com
+#21 PyPy - The JIT Compiled Python Implementation,"Tue, 18 Aug 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/21/pypy-the-jit-compiled-python-implementation
+#20 Interactive Python and Teaching Python: Beyond Text Books,"Tue, 11 Aug 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/20/interactive-python-and-teaching-python-beyond-text-books
+#19 Automate the Boring Stuff with Python,"Tue, 04 Aug 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/19/automate-the-boring-stuff-with-python
+#18 Python Anti-patterns and other mistakes,"Tue, 28 Jul 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/18/python-anti-patterns-and-other-mistakes
+#17 Python on bare metal with MicroPython,"Tue, 21 Jul 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/17/python-on-bare-metal-with-micropython
+#16 Python at Netflix,"Tue, 14 Jul 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/16/python-at-netflix
+"#15 Python at Spotify, PSF, and PyLadies","Tue, 07 Jul 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/15/python-at-spotify-psf-and-pyladies
+#14 Moving from PHP to Python 3 with Patreon,"Tue, 30 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/14/moving-from-php-to-python-3-with-patreon
+"#13 Flask web framework and much, much more","Tue, 23 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/13/flask-web-framework-and-much-much-more
+#12 Deep Dive into Modules and Packages,"Tue, 16 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/12/deep-dive-into-modules-and-packages
+#11 PyImageSearch and Computer Vision,"Tue, 09 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/11/pyimagesearch-and-computer-vision
+#10 Bringing Python to the Masses with Hosting and DevOps at PythonAnywhere,"Tue, 02 Jun 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/10/bringing-python-to-the-masses-with-hosting-and-devops-at-pythonanywhere
+#9 Docker for the Python Developer,"Tue, 26 May 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/9/docker-for-the-python-developer
+#8 Teaching Python at Grok Learning and Classrooms,"Tue, 19 May 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/8/teaching-python-at-grok-learning-and-classrooms
+#7 Robot Operating System (ROS) and ROSPy,"Tue, 12 May 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/7/robot-operating-system-ros-and-rospy
+"#6 Requests, PyCon, and Python's future","Tue, 05 May 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/6/requests-pycon-and-pythons-future
+#5 SQLAlchemy and data access in Python,"Tue, 28 Apr 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/5/sqlalchemy-and-data-access-in-python
+#4 Enterprise Python and Large-Scale Projects,"Thu, 23 Apr 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/4/enterprise-python-and-large-scale-projects
+#3 Pyramid Web Framework,"Thu, 16 Apr 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/3/pyramid-web-framework
+#2 Python and MongoDB,"Tue, 07 Apr 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/2/python-and-mongodb
+#1 EVE - RESTful APIs for humans,"Tue, 31 Mar 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/1/eve-restful-apis-for-humans
+#0 Introducing the show!,"Sat, 21 Mar 2015 00:00:00 -0800",https://talkpython.fm/episodes/show/0/introducing-the-show

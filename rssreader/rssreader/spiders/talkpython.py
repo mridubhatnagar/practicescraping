@@ -8,12 +8,9 @@ class TalkpythonSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        response.selector.remove_namespaces()
-
         title = response.xpath("//item/title/text()").extract()
         published_date =  response.xpath("//item/pubDate/text()").extract()
         link =  response.xpath("//item/link/text()").extract()
-
 
         with open('tmp/talkpython.csv', 'w') as file:
             csvwriter = csv.writer(file, delimiter=',')
