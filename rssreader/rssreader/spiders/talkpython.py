@@ -11,14 +11,13 @@ class TalkpythonSpider(scrapy.Spider):
         response.selector.remove_namespaces()
 
         title = response.xpath("//item/title/text()").extract()
-        description = response.xpath("//item/description/text()").extract()
         published_date =  response.xpath("//item/pubDate/text()").extract()
         link =  response.xpath("//item/link/text()").extract()
 
 
         with open('tmp/talkpython.csv', 'w') as file:
             csvwriter = csv.writer(file, delimiter=',')
-            fieldnames = ["title", "description", "published_date", "link"]
+            fieldnames = ["title", "published_date", "link"]
             csvwriter.writerow(fieldnames)
-            for element in zip(title, description, published_date, link):
-                csvwriter.writerow([element[0], element[1], element[2], element[3]])
+            for element in zip(title, published_date, link):
+                csvwriter.writerow([element[0], element[1], element[2]])
