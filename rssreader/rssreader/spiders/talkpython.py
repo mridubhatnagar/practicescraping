@@ -3,7 +3,7 @@ import csv
 
 class TalkpythonSpider(scrapy.Spider):
     name = 'talkpython'
-    allowed_domains = ['https://talkpython.fm/episodes/rss_full_history']
+    allowed_domains = ['talkpython.fm']
     start_urls = ['https://talkpython.fm/episodes/rss_full_history']
 
     def parse(self, response):
