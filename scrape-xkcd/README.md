@@ -9,3 +9,4 @@ At the moment scraped data is first stored in-memory in a dictionary and then di
 Learning
 - BeautifulSoup
 - Dealing with pagination while scraping
+- writing the scraped data to CSV file
