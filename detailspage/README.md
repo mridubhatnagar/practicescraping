@@ -1,6 +1,6 @@
 Scrape Books
 
-This project was built to scrape travel books from http://books.toscrape.com/index.html.
+This project was built to scrape travel books from http://books.toscrape.com/.
 Project is built using Scrapy.
 
 Learning
