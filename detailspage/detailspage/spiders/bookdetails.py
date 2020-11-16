@@ -29,7 +29,7 @@ class BookdetailsSpider(scrapy.Spider):
         .extract()
         count_book_items = len(all_book_items)
 
-        for item_count in range(1, count_book_items):
+        for item_count in range(1, count_book_items+1):
             details_page = response.xpath(f"//ol[@class='row']/li[{item_count}] \
             [@class='col-xs-6 col-sm-4 col-md-3 col-lg-3']/ \
             article[@class='product_pod']/h3/a[@href]").xpath("@href").get()
