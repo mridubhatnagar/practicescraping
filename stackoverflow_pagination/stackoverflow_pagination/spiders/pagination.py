@@ -3,12 +3,13 @@ import scrapy
 
 class PaginationSpider(scrapy.Spider):
     name = 'pagination'
-    allowed_domains = ['https://stackoverflow.com/']
+    allowed_domains = ['stackoverflow.com']
     start_urls = ['https://stackoverflow.com/questions/tagged/python?sort=frequent&pageSize=15']
 
     def parse(self, response):
         questions_count = len(response.xpath("//div[@id='mainbar']/div[@id='questions']/ \
         div[@class='question-summary']").extract())
+        print(questions_count, "parse method")
 
         for count in range(1, questions_count+1):
             yield {
@@ -20,6 +21,7 @@ class PaginationSpider(scrapy.Spider):
                 "tags": response.xpath(f"//div[{count}][@class='question-summary']/div[2]/div[2]/a/text()").extract()
             }
 
-        next_page_path = response.xpath("//div[@class='s-pagination pager fl']/a[7]").xpath("@href").get()
+        next_page_path = response.xpath("//div[@class='s-pagination pager fl']/a[last()][@href]").xpath("@href").get()
         next_page_url = response.urljoin(next_page_path)
+        print(next_page_url, next_page_path)
         yield scrapy.Request(url=next_page_url, callback=self.parse)
