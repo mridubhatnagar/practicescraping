@@ -1,0 +1,365 @@
+votes,views,question,question_page_link,post_excerpt,tags
+220,"25,610 views",How to make good reproducible pandas examples,https://stackoverflow.com/questions/20109391/how-to-make-good-reproducible-pandas-examples,"
+            Having spent a decent amount of time watching both the r and pandas tags on SO, the impression that I get is that pandas questions are less likely to contain reproducible data. This is something that ...
+        ","python,pandas"
+681,"284,189 views",How to test multiple variables against a value?,https://stackoverflow.com/questions/15112125/how-to-test-multiple-variables-against-a-value,"
+            I'm trying to make a function that will compare multiple variables to an integer and output a string of three letters. I was wondering if there was a way to translate this into Python. So say:
+
+x = 0
+...
+        ","python,if-statement,comparison,match,boolean-logic"
+606,"585,965 views",Asking the user for input until they give a valid response,https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response,"
+            I am writing a program that accepts an input from the user.
+
+#note: Python 2.7 users should use `raw_input`, the equivalent of 3.X's `input`
+age = int(input(""Please enter your age: ""))
+if age >= 18:...
+        ","python,validation,loops,python-3.x,user-input"
+3539,"1,912,544 views",Understanding slice notation,https://stackoverflow.com/questions/509211/understanding-slice-notation,"
+            I need a good explanation (references are a plus) on Python's slice notation. 
+
+To me, this notation needs a bit of picking up. 
+
+It looks extremely powerful, but I haven't quite got my head around it....
+        ","python,list,slice,iterable"
+698,"39,077 views",List of lists changes reflected across sublists unexpectedly,https://stackoverflow.com/questions/240178/list-of-lists-changes-reflected-across-sublists-unexpectedly,"
+            I needed to create a list of lists in Python, so I typed the following:  
+
+myList = [[1] * 4] * 3
+The list looked like this:  
+
+[[1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1]]  
+Then I changed one of the ...
+        ","python,list,nested-lists,mutable"
+2709,"166,264 views",“Least Astonishment” and the Mutable Default Argument,https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument,"
+            Anyone tinkering with Python long enough has been bitten (or torn to pieces) by the following issue:
+
+def foo(a=[]):
+    a.append(5)
+    return a
+Python novices would expect this function to always ...
+        ","python,language-design,default-parameters,least-astonishment"
+391,"157,821 views",How do I create variable variables?,https://stackoverflow.com/questions/1373164/how-do-i-create-variable-variables,"
+            How do I accomplish variable variables in Python? 
+
+Here is an elaborative manual entry, for instance: Variable variables
+
+I have heard this is a bad idea in general though, and it is a security hole ...
+        ","python,variable-variables"
+2708,"1,783,563 views",List changes unexpectedly after assignment. How do I clone or copy it to prevent this?,https://stackoverflow.com/questions/2612802/list-changes-unexpectedly-after-assignment-how-do-i-clone-or-copy-it-to-prevent,"
+            While using new_list = my_list, any modifications to new_list changes my_list everytime. Why is this, and how can I clone or copy the list to prevent it?
+        ","python,list,copy,clone"
+402,"32,633 views",How to pivot a dataframe?,https://stackoverflow.com/questions/47152691/how-to-pivot-a-dataframe,"
+            What is pivot?
+How do I pivot?
+Is this a pivot?
+Long format to wide format?
+
+I've seen a lot of questions that ask about pivot tables.  Even if they don't know that they are asking about pivot tables, ...
+        ","python,pandas,group-by,pivot,pandas-groupby"
+462,"114,802 views",Pandas Merging 101,https://stackoverflow.com/questions/53645882/pandas-merging-101,"
+            How to perform a (INNER| (LEFT|RIGHT|FULL) OUTER) JOIN with pandas?
+How do I add NaNs for missing rows after merge?
+How do I get rid of NaNs after merging?
+Can I merge on the index?
+Cross join with ...
+        ","python,pandas,join,merge"
+3692,"2,460,650 views",How to make a flat list out of list of lists?,https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-list-of-lists,"
+            I wonder whether there is a shortcut to make a simple list out of list of lists in Python.
+
+I can do that in a for loop, but maybe there is some cool ""one-liner""? I tried it with reduce(), but I get ...
+        ","python,list,multidimensional-array,flatten"
+933,"565,813 views",How to remove items from a list while iterating?,https://stackoverflow.com/questions/1207406/how-to-remove-items-from-a-list-while-iterating,"
+            I'm iterating over a list of tuples in Python, and am attempting to remove them if they meet certain criteria. 
+
+for tup in somelist:
+    if determine(tup):
+         code_to_remove_tup
+What should I ...
+        ","python,iteration"
+261,"903,486 views",How can I read inputs as numbers?,https://stackoverflow.com/questions/20449427/how-can-i-read-inputs-as-numbers,"
+            Why are x and y strings instead of ints in the below code?
+
+(Note: in Python 2.x use raw_input(). In Python 3.x use input(). raw_input() was renamed to input() in Python 3.x)
+
+play = True
+
+while play:
+...
+        ","python,python-3.x,python-2.7,input,int"
+2394,"1,040,933 views",How do you split a list into evenly sized chunks?,https://stackoverflow.com/questions/312443/how-do-you-split-a-list-into-evenly-sized-chunks,"
+            I have a list of arbitrary length, and I need to split it up into equal size chunks and operate on it. There are some obvious ways to do this, like keeping a counter and two lists, and when the second ...
+        ","python,list,split,chunks"
+2742,"1,445,119 views",How do I pass a variable by reference?,https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference,"
+            The Python documentation seems unclear about whether parameters are passed by reference or value, and the following code produces the unchanged value 'Original'
+
+class PassByReference:
+    def ...
+        ","python,reference,parameter-passing,pass-by-reference"
+2509,"785,019 views",What does ** (double star/asterisk) and * (star/asterisk) do for parameters?,https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters,"
+            In the following method definitions, what does the * and ** do for param2?
+
+def foo(param1, *param2):
+def bar(param1, **param2):
+        ","python,syntax,parameter-passing,variadic-functions,argument-unpacking"
+3246,"3,282,322 views",Using global variables in a function,https://stackoverflow.com/questions/423379/using-global-variables-in-a-function,"
+            How can I create or use a global variable in a function?
+
+If I create a global variable in one function, how can I use that global variable in another function? Do I need to store the global variable ...
+        ","python,global-variables,scope"
+480,"244,203 views",Short description of the scoping rules?,https://stackoverflow.com/questions/291978/short-description-of-the-scoping-rules,"
+            What exactly are the Python scoping rules?
+
+If I have some code:
+
+code1
+class Foo:
+   code2
+   def spam.....
+      code3
+      for code4..:
+       code5
+       x()
+Where is x found?  Some possible ...
+        ","python,scope,dynamic-languages"
+6432,"3,203,804 views",What does if __name__ == “__main__”: do?,https://stackoverflow.com/questions/419163/what-does-if-name-main-do,"
+            Given the following code, what does the if __name__ == ""__main__"": do?
+
+# Threading example
+import time, thread
+
+def myfunction(string, sleeptime, lock, *args):
+    while True:
+        lock.acquire()
+ ...
+        ","python,namespaces,main,python-module,idioms"
+723,"823,789 views",How to deal with SettingWithCopyWarning in Pandas,https://stackoverflow.com/questions/20625582/how-to-deal-with-settingwithcopywarning-in-pandas,"
+            Background
+I just upgraded my Pandas from 0.11 to 0.13.0rc1. Now, the application is popping out many new warnings. One of them like this:
+E:\FinReporter\FM_EXT.py:449: SettingWithCopyWarning: A value ...
+        ","python,pandas,dataframe,chained-assignment"
+5079,"3,536,639 views",How to call an external command?,https://stackoverflow.com/questions/89228/how-to-call-an-external-command,"
+            How do you call an external command (as if I'd typed it at the Unix shell or Windows command prompt) from within a Python script?
+        ","python,shell,terminal,subprocess,command"
+10662,"2,349,334 views",What does the “yield” keyword do?,https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do,"
+            What is the use of the yield keyword in Python, and what does it do?
+
+For example, I'm trying to understand this code1:
+
+def _get_child_candidates(self, distance, min_dist, max_dist):
+    if self....
+        ","python,iterator,generator,yield,coroutine"
+74,"28,652 views",Why is Button parameter “command” executed when declared?,https://stackoverflow.com/questions/5767228/why-is-button-parameter-command-executed-when-declared,"
+            My code is:
+
+from Tkinter import *
+
+admin = Tk()
+def button(an):
+    print an
+    print 'het'
+
+b = Button(admin, text='as', command=button('hey'))
+b.pack()
+mainloop()
+The button doesn't work, it ...
+        ","python,tkinter"
+2231,"3,272,035 views",How to select rows from a DataFrame based on column values,https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values,"
+            How can I select rows from a DataFrame based on values in some column in Pandas?
+In SQL, I would use:
+SELECT *
+FROM table
+WHERE colume_name = some_value
+
+I tried to look at Pandas' documentation, but ...
+        ","python,pandas,dataframe"
+505,"527,141 views",How to filter Pandas dataframe using 'in' and 'not in' like in SQL,https://stackoverflow.com/questions/19960077/how-to-filter-pandas-dataframe-using-in-and-not-in-like-in-sql,"
+            How can I achieve the equivalents of SQL's IN and NOT IN?
+I have a list with the required values.
+Here's the scenario:
+df = pd.DataFrame({'country': ['US', 'UK', 'Germany', 'China']})
+...
+        ","python,pandas,dataframe,sql-function"
+3418,"3,154,265 views",How do I sort a dictionary by value?,https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value,"
+            I have a dictionary of values read from two fields in a database: a string field and a numeric field. The string field is unique, so that is the key of the dictionary.
+
+I can sort on the keys, but how ...
+        ","python,sorting,dictionary"
+457,"143,982 views",Flatten an irregular list of lists,https://stackoverflow.com/questions/2158395/flatten-an-irregular-list-of-lists,"
+            Yes, I know this subject has been covered before (here, here, here, here), but as far as I know, all solutions, except for one, fail on a list like this:
+
+L = [[[1, 2, 3], [4, 5]], 6]
+Where the ...
+        ","python,list,optimization,nested-lists,flatten"
+342,"475,953 views",Pandas conditional creation of a series/dataframe column,https://stackoverflow.com/questions/19913659/pandas-conditional-creation-of-a-series-dataframe-column,"
+            I have a dataframe along the lines of the below:
+    Type       Set
+1    A          Z
+2    B          Z           
+3    B          X
+4    C          Y
+
+I want to add another column to the dataframe (...
+        ","python,pandas,numpy,dataframe"
+939,"742,530 views",How to iterate through two lists in parallel?,https://stackoverflow.com/questions/1663807/how-to-iterate-through-two-lists-in-parallel,"
+            I have two iterables in Python, and I want to go over them in pairs:
+foo = (1, 2, 3)
+bar = (4, 5, 6)
+
+for (f, b) in some_iterator(foo, bar):
+    print(""f: "", f, ""; b: "", b)
+
+It ...
+        ","python,list,for-loop,iterator"
+1165,"884,723 views",What is the purpose of the word 'self'?,https://stackoverflow.com/questions/2709821/what-is-the-purpose-of-the-word-self,"
+            What is the purpose of the self word in Python? I understand it refers to the specific object created from that class, but I can't see why it explicitly needs to be added to every function as a ...
+        ","python,class,oop,self"
+529,"70,477 views",“is” operator behaves unexpectedly with integers,https://stackoverflow.com/questions/306313/is-operator-behaves-unexpectedly-with-integers,"
+            Why does the following behave unexpectedly in Python?
+
+>>> a = 256
+>>> b = 256
+>>> a is b
+True           # This is an expected result
+>>> a = 257
+>>> b = ...
+        ","python,int,operators,identity,python-internals"
+141,"42,850 views",Why is using 'eval' a bad practice?,https://stackoverflow.com/questions/1832940/why-is-using-eval-a-bad-practice,"
+            I am using the following class to easily store data of my songs.
+
+class Song:
+    """"""The class to store the details of each song""""""
+    attsToStore=('Name', 'Artist', 'Album', 'Genre', 'Location')
+    ...
+        ","python,eval"
+111,"23,242 views",Why does `a == b or c or d` always evaluate to True?,https://stackoverflow.com/questions/20002503/why-does-a-b-or-c-or-d-always-evaluate-to-true,"
+            I am writing a security system that denies access to unauthorized users.
+
+import sys
+
+print(""Hello. Please enter your name:"")
+name = sys.stdin.readline().strip()
+if name == ""Kevin"" or ""Jon"" or ""Inbar"":...
+        ","python,boolean,boolean-expression"
+564,"369,783 views",How to convert string representation of list to a list?,https://stackoverflow.com/questions/1894269/how-to-convert-string-representation-of-list-to-a-list,"
+            I was wondering what the simplest way is to convert a string representation of a list like the following to a list:
+x = '[ ""A"",""B"",""C"" , "" D""]'
+
+Even in cases ...
+        ","python,string"
+6333,"2,012,348 views",Does Python have a ternary conditional operator?,https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator,"
+            If Python does not have a ternary conditional operator, is it possible to simulate one using other language constructs?
+        ","python,operators,ternary-operator,conditional-operator"
+53,"87,736 views",Tkinter: AttributeError: NoneType object has no attribute <attribute name>,https://stackoverflow.com/questions/1101750/tkinter-attributeerror-nonetype-object-has-no-attribute-attribute-name,"
+            I've created this simple GUI:
+
+from tkinter import *
+
+root = Tk()
+
+def grabText(event):
+    print(entryBox.get())    
+
+entryBox = Entry(root, width=60).grid(row=2, column=1, sticky=W)
+
+grabBtn = ...
+        ","python,user-interface,tkinter"
+148,"26,913 views",How to avoid having class data shared among instances?,https://stackoverflow.com/questions/1680528/how-to-avoid-having-class-data-shared-among-instances,"
+            What I want is this behavior:
+
+class a:
+    list = []
+
+x = a()
+y = a()
+
+x.list.append(1)
+y.list.append(2)
+x.list.append(3)
+y.list.append(4)
+
+print(x.list) # prints [1, 3]
+print(y.list) # prints [2, 4]...
+        ","python,class"
+59,"23,025 views",Importing installed package from script raises “AttributeError: module has no attribute” or “ImportError: cannot import name”,https://stackoverflow.com/questions/36250353/importing-installed-package-from-script-raises-attributeerror-module-has-no-at,"
+            I have a script named requests.py that imports the requests package.  The script either can't access attributes from the package, or can't import them.  Why isn't this working and how do I fix it?
+
+...
+        ","python,exception,python-module,shadowing"
+5928,"838,940 views",What are metaclasses in Python?,https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python,"
+            In Python, what are metaclasses and what do we use them for?
+        ","python,oop,metaclass,python-datamodel"
+5192,"2,029,632 views",How do I merge two dictionaries in a single expression in Python (taking union of dictionaries)?,https://stackoverflow.com/questions/38987/how-do-i-merge-two-dictionaries-in-a-single-expression-in-python-taking-union-o,"
+            I have two Python dictionaries, and I want to write a single expression that returns these two dictionaries, merged (i.e. taking the union).  The update() method would be what I need, if it returned ...
+        ","python,dictionary,merge"
+2872,"709,674 views",Difference between __str__ and __repr__?,https://stackoverflow.com/questions/1436703/difference-between-str-and-repr,"
+            What is the difference between __str__ and __repr__ in Python?
+        ","python,magic-methods,repr"
+2284,"3,131,372 views",Converting string into datetime,https://stackoverflow.com/questions/466345/converting-string-into-datetime,"
+            I've got a huge list of date-times like this as strings:
+
+Jun 1 2005  1:33PM
+Aug 28 1999 12:00AM
+I'm going to be shoving these back into proper datetime fields in a database so I need to magic them ...
+        ","python,datetime"
+133,"43,038 views",How to unnest (explode) a column in a pandas DataFrame?,https://stackoverflow.com/questions/53218931/how-to-unnest-explode-a-column-in-a-pandas-dataframe,"
+            I have the following DataFrame where one of the columns is an object (list type cell):
+
+df=pd.DataFrame({'A':[1,2],'B':[[1,2],[1,2]]})
+df
+Out[458]: 
+   A       B
+0  1  [1, 2]
+1  2  [1, 2]
+My expected ...
+        ","python,pandas,dataframe"
+2330,"3,064,678 views",How to iterate over rows in a DataFrame in Pandas,https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas,"
+            I have a DataFrame from Pandas:
+
+import pandas as pd
+inp = [{'c1':10, 'c2':100}, {'c1':11,'c2':110}, {'c1':12,'c2':120}]
+df = pd.DataFrame(inp)
+print df
+Output:
+
+   c1   c2
+0  10  100
+1  11  110
+2  ...
+        ","python,pandas,rows,dataframe"
+802,"566,288 views",How do you remove duplicates from a list whilst preserving order?,https://stackoverflow.com/questions/480214/how-do-you-remove-duplicates-from-a-list-whilst-preserving-order,"
+            Is there a built-in that removes duplicates from list in Python, whilst preserving order? I know that I can use a set to remove duplicates, but that destroys the original order. I also know that I can ...
+        ","python,list,duplicates,unique"
+819,"1,021,110 views",Get the data received in a Flask request,https://stackoverflow.com/questions/10434599/get-the-data-received-in-a-flask-request,"
+            I want to be able to get the data sent to my Flask app. I've tried accessing request.data but it is an empty string. How do you access request data?
+
+from flask import request
+
+@app.route('/', methods=...
+        ","python,flask,werkzeug"
+799,"821,777 views",Is there any way to kill a Thread?,https://stackoverflow.com/questions/323972/is-there-any-way-to-kill-a-thread,"
+            Is it possible to terminate a running thread without setting/checking any flags/semaphores/etc.?
+        ","python,multithreading,kill,terminate"
+2579,"3,084,755 views",How can I install pip on Windows?,https://stackoverflow.com/questions/4750806/how-can-i-install-pip-on-windows,"
+            pip is a replacement for easy_install. But should I install pip using easy_install on Windows? Is there a better way?
+        ","python,windows,installation,pip,easy-install"
+2026,"3,783,311 views",How to read a file line-by-line into a list?,https://stackoverflow.com/questions/3277503/how-to-read-a-file-line-by-line-into-a-list,"
+            How do I read every line of a file in Python and store each line as an element in a list? 
+
+I want to read the file line by line and append each line to the end of the list.
+        ","python,string,file,readlines"
+629,"385,062 views",Is there a difference between “==” and “is”?,https://stackoverflow.com/questions/132988/is-there-a-difference-between-and-is,"
+            My Google-fu has failed me.
+
+In Python, are the following two tests for equality equivalent?
+
+n = 5
+# Test one.
+if n == 5:
+    print 'Yay!'
+
+# Test two.
+if n is 5:
+    print 'Yay!'
+Does this hold ...
+        ","python,reference,equality,semantics"
